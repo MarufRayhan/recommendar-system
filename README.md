@@ -1,6 +1,6 @@
 # Recommender Systems Course assignments
 
-## About This Project
+## About This repo
 This repository contains my project for the Recommender Systems course I undertook as part of my studies. The assignments aims to explore and implement various recommender system algorithms and techniques to provide personalized recommendations to users.
 
 ### Course Objectives
